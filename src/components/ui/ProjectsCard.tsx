@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { ExternalLink, Github, Calendar, Tag } from "lucide-react";
+import { ExternalLink, Calendar } from "lucide-react";
 import { sections } from "@/lib/utils";
 
 const ProjectsCard = () => {

@@ -7,12 +7,8 @@ import {
   Monitor,
   Server,
 } from "lucide-react";
-import { sections } from "@/lib/utils";
 
 const SkillCard = () => {
-  const skills =
-    sections.find((section) => section.title === "Specialization")?.items || [];
-
   const skillCategories = [
     {
       title: "Programming Languages",

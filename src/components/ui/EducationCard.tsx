@@ -1,17 +1,7 @@
 import { motion } from "framer-motion";
-import {
-  GraduationCap,
-  Calendar,
-  Award,
-  ExternalLink,
-  MapPin,
-} from "lucide-react";
-import { sections } from "@/lib/utils";
+import { GraduationCap, Calendar, Award, MapPin } from "lucide-react";
 
 const EducationCard = () => {
-  const educationItems =
-    sections.find((section) => section.title === "Education")?.items || [];
-
   const educationData = [
     {
       title: "Bachelor in Automation and Robotics",

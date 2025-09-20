@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
-import { Calendar, MapPin, Award, ChevronRight } from "lucide-react";
+import { Calendar, Award } from "lucide-react";
 import { RelevantWorkExpirienceDetails } from "@/lib/utils";
 
 const WorkExpirienceCard = () => {
