@@ -26,37 +26,37 @@ export const sections = [
     items: [
       {
         title: "Youtube Channel Recommender",
-        url: "https://yourportfolio.com",
+        url: "https://youtubechannelanalyzer.vercel.app/",
         description:
           "Paste in your channel link, and get indeepth channel analysis, with free of charge AI analysis up to 45 videos.",
       },
       {
         title: "Digital Grafitti",
-        url: "https://yourecommerce.com",
+        url: "https://digitalgraffiti.vercel.app/",
         description:
           "Draw Whatever you want (within reason), and place it on a 'forever-canvas.'",
       },
       {
         title: "Design-Hub",
-        url: "https://yourdashboard.com",
+        url: "https://design-hub-omega.vercel.app/",
         description:
           "Give us a shot and showcase your clothing collection in 3D on our website.",
       },
       {
         title: "Paarallax (Github)",
-        url: "https://yourdashboard.com",
+        url: "https://github.com/Someoneeelsse/Parralax",
         description:
           "Project where I made a working daily news generator using LLMs, It is supposed to make daily news report based on its memory.",
       },
       {
         title: "Auto SRE (Github)",
-        url: "https://yourdashboard.com",
+        url: "https://github.com/Someoneeelsse/AutoSRE",
         description:
           "A DevOps focused project that automatically redeploys whenever a new commit is pushed to the repository, keeping everything up to date without manual steps.",
       },
       {
         title: "Main Portfolio",
-        url: "https://yourdashboard.com",
+        url: "https://someoneelsse-portfolio.vercel.app/",
         description: "My un-simplified portfolio",
       },
     ],
