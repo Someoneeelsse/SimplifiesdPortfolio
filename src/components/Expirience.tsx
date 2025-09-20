@@ -94,7 +94,7 @@ const Portfolio = () => {
                         01.2025 - Present
                       </p>
                       <p className="text-sm sm:text-base text-gray-700">
-                        Systematicly build and maintain data analysis tools,
+                        Systematically build and maintain data analysis tools,
                         mantain industrial automation systems. Create system
                         interfaces in Java and Javascript. Build various Data
                         analytics generators in Python.
