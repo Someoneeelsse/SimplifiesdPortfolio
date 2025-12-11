@@ -56,7 +56,7 @@ export const sections = [
       },
       {
         title: "Main Portfolio",
-        url: "https://someoneelsse-portfolio.vercel.app/",
+        url: "https://someoneelsse-portfolio-phone.vercel.app/",
         description: "My un-simplified portfolio",
       },
     ],
